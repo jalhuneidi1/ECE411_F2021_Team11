@@ -1,0 +1,18 @@
+
+# Other directories
+Guides/
+Temp/
+Deliverables/
+Hardware/sunrise-alarm/sunrise-alarm-backups/
+Hardware/lib-raw/
+
+# Unneeded Files
+Firmware/nbproject/private/
+Firmware/nbproject/Makefile-genesis.properties
+Firmware/build/
+Firmware/default/
+Firmware/dist/
+
+# Backup Files
+*.sch-bak
+*.bak
