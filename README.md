@@ -1,5 +1,7 @@
 # ECE411 Sunrise Alarm Clock - Team 7
+
 Project created for ECE 411 - Industry Design Processes
+
 Team Members - Jana, Maddie, Ashlei, Julia
 
 
