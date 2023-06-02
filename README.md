@@ -1,10 +1,11 @@
 # ECE411 Sunrise Alarm Clock - Team 7
+> "Never wake-up in darkness..."
 
 Project created for ECE 411 - Industry Design Processes
 
 Team Members - Jana, Maddie, Ashlei, Julia
 
-*NOTE:* The final product of this project utilized a completely different set of hardware. Updates forthcoming. The Sunrise Alarm Clock is an add on board for an arduino which allows users to interact with an OLED display clock using guestures (videos demonstration of final product can be found in the [Demo directory](https://github.com/jalhuneidi1/ECE411_F2021_Team7/tree/main/Demo). The board features 12 RGB SMD LEDs which are used to display time in a meaningful way, indicate confirmation of guesture input, and provide an illuminated alarm experience. A buzzer along with two analog buttons are included to facilitate traditional inputs and alarms if necessary.
+*__Note: The final product of this project utilized a completely different set of hardware. Updates forthcoming. The Sunrise Alarm Clock is an add on board for an arduino which allows users to interact with an OLED display clock using guestures (videos demonstration of final product can be found in the [Demo directory](https://github.com/jalhuneidi1/ECE411_F2021_Team7/tree/main/Demo). The board features 12 RGB SMD LEDs which are used to display time in a meaningful way, indicate confirmation of guesture input, and provide an illuminated alarm experience. A buzzer along with two analog buttons are included to facilitate traditional inputs and alarms if necessary.__*
 
 > "Never wake-up in darkness..."
 
